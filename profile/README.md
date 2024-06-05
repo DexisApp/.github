@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, shall we meet? I'm <a href="https://dexis.app/" target="_blank">Wasper</a> 
+<h1 align="center">Hi there, shall we meet? I'm <a href="https://dexis.app/" target="_blank">Dexis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Your AI Partner Helps You Better Write, Draw and Present.</h3>
+<h3 align="center">We are the next generation social network in the WEB3..</h3>
 
 <div align="center">
-<img src="https://github.com/WasperAI/.github/blob/main/images/cover.png" width="400" alt="toEverything Logo" />
+
 </div>
 
 <h1 align="center"></h1>
@@ -18,5 +18,5 @@ We are a passionate team that believes in providing modern web infrastructure to
 
 
 
-|   [DEXIS]   |           <a href="https://github.com/WasperAI/wasper" target="blank"><picture style="width: 500px"><source media="(prefers-color-scheme: light)" srcset="https://github.com/WasperAI/.github/blob/main/images/1.svg" /><source media="(prefers-color-scheme: dark)" srcset="https://github.com/WasperAI/.github/blob/main/images/1.svg" /><img src="https://github.com/WasperAI/.github/blob/main/images/1.svg" width="500" alt="Wasper Logo" /></picture></a>            |
+|   [DEXIS]   |           <a href="https://github.com/DexisApp/Dexis" target="blank"><picture style="width: 500px"><source media="(prefers-color-scheme: light)" srcset="https://github.com/DexisApp/.github/blob/main/images/1.svg" /><source media="(prefers-color-scheme: dark)" srcset="https://github.com/DexisApp/.github/blob/main/images/1.svg" /><img src="https://github.com/DexisApp/.github/blob/main/images/1.svg" width="500" alt="Dexis Logo" /></picture></a>            |
 | :----------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
