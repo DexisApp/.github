@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, shall we meet? I'm <a href="https://dexis.app/" target="_blank">Dexis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">We are the next generation social network in the WEB3..</h3>
+<h3 align="center">We are the next generation social network in the WEB3.</h3>
 
 <div align="center">
 
